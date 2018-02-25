@@ -1,0 +1,21 @@
+ 
+  .jumbotron {
+    background: url('./img/nintendo.png');
+    background-repeat: repeat;
+    margin-bottom: 0px;
+    color: black;
+    text-shadow: #ed1d24 0.3em 0.3em 0.3em;
+    text-align: center;
+  }
+  
+  .well {
+    background: #ed1d24;
+  }
+  
+  .panel {
+    background: #faf2f2;
+  }
+  
+  h1 {
+    font-family: 'Space Mono', monospace;
+  }
